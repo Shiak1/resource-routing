@@ -11,10 +11,10 @@
     "resource",
     "resources"
   ],
-  "homepage": "https://github.com/mshiltonj/resource-routing",
+  "homepage": "https://github.com/shiak1/resource-routing",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mshiltonj/resource-routing"
+    "url": "https://github.com/shiak1/resource-routing"
   },
   "author": {
     "name": "Steven Hilton",
